@@ -2,7 +2,7 @@
 
 🎶 Musician & Coding Newbie | Eager to Learn 🌱
 
-💻 Skills: HTML, CSS, Java, JavaScript
+💻 Skills: HTML, CSS, JavaScript
 
 🎹 Swapping the keyboard for the piano keys now and then
 
