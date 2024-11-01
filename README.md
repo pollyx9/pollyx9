@@ -1,4 +1,4 @@
-👋 Hi, I'm Polly and I am currently based in Vorarlberg and Styria, Austria 🇦🇹 
+👋 Hi, I am Polly and I am currently based in Vorarlberg, Austria 🇦🇹
 
 🎶 Musician & Coding Newbie | Eager to Learn 🌱
 
