@@ -1,9 +1,9 @@
-👋 Hi, I am Polly and I am currently based in Vorarlberg, Austria 🇦🇹
+👋 Hi, I'm Polly, currently based in Vorarlberg, Austria 🇦🇹
 
-🎶 Musician & Coding Newbie | Eager to Learn 🌱
+🎶 Musician & Hobby Programmer | Always eager to learn 🌱
 
-💻 Skills: HTML, CSS, JS
+💻 Skills: Familiar with multiple frontend and backend languages
 
-🎹 Swapping the keyboard for the piano keys now and then
+🎹 Occasionally swapping my keyboard for piano keys
 
-🎯 My goals: Continuous learning and mastering new programming languages
+🎯 Goals: Continuously improving and exploring new programming languages
